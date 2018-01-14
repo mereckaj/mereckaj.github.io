@@ -1,1 +1,1 @@
-[mereckaj.github.io](mereckaj.github.io)
+[Click me!](https://mereckaj.github.io/)
